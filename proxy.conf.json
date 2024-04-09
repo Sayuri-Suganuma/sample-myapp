@@ -1,0 +1,7 @@
+{
+  "/hoge": {
+    "target": "https://www.google.co.jp/",
+    "secure": true,
+    "changeOrigin": true
+  }
+}
